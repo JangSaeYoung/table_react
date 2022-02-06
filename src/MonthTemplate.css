@@ -1,0 +1,24 @@
+
+.content {
+  width: 800px;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 1rem;
+  overflow: hidden;
+  background-color: rgb(203, 203, 243);
+  text-align: center;
+}
+
+.title {
+    width: 800px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 5rem;
+    overflow: hidden;
+    text-align: center;
+    font-size: 40px;
+    color: black;
+    }
+    
+
+
