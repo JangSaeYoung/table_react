@@ -6,3 +6,4 @@
 
 
 
+<img width="400" alt="스크린샷 2022-02-06 오후 6 35 51" src="https://user-images.githubusercontent.com/89016723/152675073-dcb56a2b-5618-4483-ac3a-1fae250e09c2.png">
