@@ -6,9 +6,9 @@ function MonthHeaderContent (){
 return(
     <div>
         <table>
-             <thead>  {/*점검정보란 칸 */}
+             <thead> 
                 <tr>점검기간
-                    <td>2022년 12월 ~ 2022년 2월</td>
+                    <td>2022년 12월 ~ 2023년 2월</td>
                     <td>확인</td>
                     <td>매월 4일은 안전점검의 날</td>
                 </tr>

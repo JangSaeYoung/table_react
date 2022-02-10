@@ -7,8 +7,7 @@ function MonthTemplate ({children}){
 
     return(
     <div>
-                <div className="title">월별점검표</div>
-
+     <div className="title">월별점검표</div>
      <div className="content">{children}</div>
     </div>
     );
